@@ -1,0 +1,1124 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+
+<div class="home">
+    <div class="home-banner">
+        <img src="~/image/banner/banner.svg" class="home-banner-img" />
+    </div>
+    <div class="home-introduce">
+        <div class="home-introduce-left">
+            <h5 class="home-introduce-title-small">về chúng tôi</h5>
+            <h1 class="home-introduce-title">CÔNG TY TNHH KISO</h1>
+            <p class="home-introduce-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <button class="btn-next">Tìm hiểu thêm <i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+        <div class="home-introduce-right">
+            <img src="~/image/vni-home_banner_shop 1.svg" class="home-introduce-right-img" />
+        </div>
+    </div>
+    <div class="home-product">
+        <h1 class="home-product-title">
+            sản phẩm nổi bật
+        </h1>
+        <div class="home-product-desp">Các sản phẩm nổi bật theo từng loại sản phẩm</div>
+        <div class="home-product-birck"></div>
+        <ul class="nav nav-tabs align-items-center" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="all-tab" data-bs-toggle="tab" data-bs-target="#all" type="button" role="tab" aria-controls="all" aria-selected="true">
+                    Tất cả
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="office-tab" data-bs-toggle="tab" data-bs-target="#office" type="button" role="tab" aria-controls="office" aria-selected="false">
+                    Đèn thả văn phòng
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="kitchen-tab" data-bs-toggle="tab" data-bs-target="#kitchen" type="button" role="tab" aria-controls="kitchen" aria-selected="false">
+                    Đèn tủ bếp
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="wardrobe-tab" data-bs-toggle="tab" data-bs-target="#wardrobe" type="button" role="tab" aria-controls="wardrobe" aria-selected="true">
+                    Đèn tủ áo
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="led-tab" data-bs-toggle="tab" data-bs-target="#led" type="button" role="tab" aria-controls="led" aria-selected="false">
+                    Đèn LED dán, LED dây
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="downlights-tab" data-bs-toggle="tab" data-bs-target="#downlights" type="button" role="tab" aria-controls="downlights" aria-selected="false">
+                    Đèn LED Downlight
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="industrial-tab" data-bs-toggle="tab" data-bs-target="#industrial" type="button" role="tab" aria-controls="industrial" aria-selected="true">
+                    Đèn Công nghiệp
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="silicon-tab" data-bs-toggle="tab" data-bs-target="#silicon" type="button" role="tab" aria-controls="silicon" aria-selected="false">
+                    Đèn Silicon
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="light-tab" data-bs-toggle="tab" data-bs-target="#light" type="button" role="tab" aria-controls="light" aria-selected="false">
+                    Đèn Ray Nam Châm
+                </button>
+            </li>
+        </ul>
+        <div class="tab-content mt-3" id="myTabContent">
+            <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="office" role="tabpanel" aria-labelledby="office-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="kitchen" role="tabpanel" aria-labelledby="kitchen-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="wardrobe" role="tabpanel" aria-labelledby="wardrobe-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="led" role="tabpanel" aria-labelledby="led-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="downlights" role="tabpanel" aria-labelledby="downlights-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="industrial" role="tabpanel" aria-labelledby="industrial-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="silicon" role="tabpanel" aria-labelledby="silicon-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black text-decoration-none">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="light" role="tabpanel" aria-labelledby="light-tab">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    <div class="home-product-box">
+                        <div class="home-product-sale">
+                            13%
+                        </div>
+                        <div class="home-product-img">
+                            <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                        </div>
+                        <div class="home-product-name">
+                            <a href="#" class="w-100 text-black">
+                                Đèn mâm pha lê CH-HT-M9225
+                            </a>
+                        </div>
+                        <div class="home-product-price">
+                            <strong>
+                                1.200.000đ
+                            </strong>
+                            -
+                            <del class="home-product-price-origin">
+                                1.300.000đ
+                            </del>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center">
+            <button class="btn-next">Xem tất cả <i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+
+    </div>
+    <div class="home-led">
+        <div class="d-flex justify-content-between">
+            <h1 class="home-led-title">đèn led chiếu sáng</h1>
+            <a href="#" class="show_all">Xem tất cả 817 Đèn Trang trí ></a>
+        </div>
+        <div class="carousel">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+    <div class="home-led">
+        <div class="d-flex justify-content-between">
+            <h1 class="home-led-title">đèn TRANG TRÍ</h1>
+            <a class="#" class="home-lead-show_all">Xem tất cả 817 Đèn Trang trí >></a>
+        </div>
+        <div class="carousel">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+    <div class="home-led">
+        <div class="d-flex justify-content-between">
+            <h1 class="home-led-title">đèn ngoài trời</h1>
+            <a class="#" class="home-lead-show_all">Xem tất cả 817 Đèn Trang trí >></a>
+        </div>
+        <div class="carousel">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="home-product-box">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <img src="~/image/product/rectangle.svg" class="home-product-image" />
+                            </div>
+                            <div class="home-product-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    Đèn mâm pha lê CH-HT-M9225
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    1.200.000đ
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    1.300.000đ
+                                </del>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+    <div class="home-service">
+        <h1 class="home-service-title">dịch vụ của chúng tôi</h1>
+        <div class="home-service-list">
+            <div class="swiper mySwipers">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide home-service-cuoser">
+                        <div class="home-service-box">
+                            <div class="home-service-img">
+                                <img src="~/image/product/rectangle.svg" class="home-service-image" />
+                            </div>
+                            <div class="home-service-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    sản xuất đèn theo yêu cầu
+                                </a>
+                            </div>
+                            <div class="home-service-desp">
+                                ádfasd
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                            <div class="text-start">
+                                <a href="#" class="show_all">Tìm hiểu thêm <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide home-service-cuoser">
+                        <div class="home-service-box">
+                            <div class="home-service-img">
+                                <img src="~/image/product/rectangle.svg" class="home-service-image" />
+                            </div>
+                            <div class="home-service-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    sản xuất đèn theo yêu cầu
+                                </a>
+                            </div>
+                            <div class="home-service-desp">
+                                ádfasd
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                            <div class="text-start">
+                                <a href="#" class="show_all">Tìm hiểu thêm <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide home-service-cuoser">
+                        <div class="home-service-box">
+                            <div class="home-service-img">
+                                <img src="~/image/product/rectangle.svg" class="home-service-image" />
+                            </div>
+                            <div class="home-service-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    sản xuất đèn theo yêu cầu
+                                </a>
+                            </div>
+                            <div class="home-service-desp">
+                                ádfasd
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                            <div class="text-start">
+                                <a href="#" class="show_all">Tìm hiểu thêm <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide home-service-cuoser">
+                        <div class="home-service-box">
+                            <div class="home-service-img">
+                                <img src="~/image/product/rectangle.svg" class="home-service-image" />
+                            </div>
+                            <div class="home-service-name">
+                                <a href="#" class="w-100 text-black text-decoration-none">
+                                    sản xuất đèn theo yêu cầu
+                                </a>
+                            </div>
+                            <div class="home-service-desp">
+                                ádfasd
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                            <div class="text-start">
+                                <a href="#" class="show_all">Tìm hiểu thêm <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+        <div class="home-service-backgroud position-relative">
+            <div class="home-service-other">
+                <div class="home-service-other-top">
+                    <img src="~/image/icon/icon1.svg" />
+                    <h3 class="home-service-other-number m-0">2020</h3>
+                </div>
+                <div class="home-service-other-text">Năm thành lập</div>
+            </div>
+            <div class="home-service-other">
+                <div class="home-service-other-top">
+                    <img src="~/image/icon/icon2.svg" />
+                    <h3 class="home-service-other-number m-0">5</h3>
+                </div>
+                <div class="home-service-other-text">Dự án đang thực hiện</div>
+            </div>
+            <div class="home-service-other">
+                <div class="home-service-other-top">
+                    <img src="~/image/icon/icon3.svg" />
+                    <h3 class="home-service-other-number m-0">256</h3>
+                </div>
+                <div class="home-service-other-text">Dự án hoàn thành</div>
+            </div>
+            <div class="home-service-other">
+                <div class="home-service-other-top">
+                    <img src="~/image/icon/icon4.svg" />
+                    <h3 class="home-service-other-number m-0">125</h3>
+                </div>
+                <div class="home-service-other-text">Nhân sựp</div>
+            </div>
+            <div class="home-service-other">
+                <div class="home-service-other-top">
+                    <img src="~/image/icon/icon5.svg" />
+                    <h3 class="home-service-other-number m-0">2167</h3>
+                </div>
+                <div class="home-service-other-text">Doanh thu (Tỷ đồng)</div>
+            </div>
+        </div>
+    </div>
+    <div class="home-customer">
+        <h1 class="home-service-title">KHÁCH HÀNG NÓI VỀ CHÚNG TÔI</h1>
+        <div class="home-product-desp">
+            Take a look at the work we are in need of partners, Lorem ipsum dolor sit amet,
+            consectetur adipiscing elit. Suspendisse id quam tortor. Aenean et quam non nunc.
+        </div>
+        <div class="d-flex justify-content-between">
+            <div class="home-customer-box">
+                <div class="home-customer-comma"><img src="~/image/icon/icon6.svg" /></div>
+                <div class="home-customer-cmt">
+                    "Chúng tôi thực sự rất hài lòng về chất lượng dịch vụ của KISO
+                    luôn đáp ứng được mọi nhu cầu của chúng tôi kể cả những yêu cầu phức tạp và đòi hỏi kỹ thuật cao."
+                </div>
+                <div class="home-customer-info">
+                    <div class="home-customer-avatar">
+                        <img src="~/image/ellipse.svg" />
+                    </div>
+                    <div class="home-customer-name-role">
+                        <div class="home-customer-name"> NGUYỄN VĂN ANH</div>
+                        <div class="home-customer-role">Khách hàng</div>
+                    </div>
+                    <div class="home-customer-star">
+                        <img src="~/image/icon/icon7.svg" />
+                    </div>
+                </div>
+            </div>
+            <div class="home-customer-box">
+                <div class="home-customer-comma"><img src="~/image/icon/icon6.svg" /></div>
+                <div class="home-customer-cmt">
+                    "Chúng tôi thực sự rất hài lòng về chất lượng dịch vụ của KISO
+                    luôn đáp ứng được mọi nhu cầu của chúng tôi kể cả những yêu cầu phức tạp và đòi hỏi kỹ thuật cao."
+                </div>
+                <div class="home-customer-info">
+                    <div class="home-customer-avatar">
+                        <img src="~/image/ellipse.svg" />
+                    </div>
+                    <div class="home-customer-name-role">
+                        <div class="home-customer-name"> NGUYỄN VĂN ANH</div>
+                        <div class="home-customer-role">Khách hàng</div>
+                    </div>
+                    <div class="home-customer-star">
+                        <img src="~/image/icon/icon7.svg" />
+                    </div>
+                </div>
+            </div>
+            <div class="home-customer-box">
+                <div class="home-customer-comma"><img src="~/image/icon/icon6.svg" /></div>
+                <div class="home-customer-cmt">
+                    "Chúng tôi thực sự rất hài lòng về chất lượng dịch vụ của KISO
+                    luôn đáp ứng được mọi nhu cầu của chúng tôi kể cả những yêu cầu phức tạp và đòi hỏi kỹ thuật cao."
+                </div>
+                <div class="home-customer-info">
+                    <div class="home-customer-avatar">
+                        <img src="~/image/ellipse.svg" />
+                    </div>
+                    <div class="home-customer-name-role">
+                        <div class="home-customer-name"> NGUYỄN VĂN ANH</div>
+                        <div class="home-customer-role">Khách hàng</div>
+                    </div>
+                    <div class="home-customer-star">
+                        <img src="~/image/icon/icon7.svg" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="home-straight-line">
+        <div class="home-straight-line-chill"></div>
+    </div>
+    <div class="home-event-news">
+        <h1 class="home-product-title">
+            tin tức sự kiện
+        </h1>
+        <div class="home-product-birck"></div>
+        <ul class="nav nav-tabs align-items-center justify-content-center" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="alls-tab" data-bs-toggle="tab" data-bs-target="#alls" type="button" role="tab" aria-controls="alls" aria-selected="true">
+                    Tất cả
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="project_news-tab" data-bs-toggle="tab" data-bs-target="#project_news" type="button" role="tab" aria-controls="project_news" aria-selected="false">
+                    Tin dự án
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="company_news-tab" data-bs-toggle="tab" data-bs-target="#company_news" type="button" role="tab" aria-controls="company_news" aria-selected="false">
+                    Tin công ty
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="community_news-tab" data-bs-toggle="tab" data-bs-target="#community_news" type="button" role="tab" aria-controls="community_news" aria-selected="true">
+                    Tin cộng đồng
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="video-tab" data-bs-toggle="tab" data-bs-target="#video" type="button" role="tab" aria-controls="video" aria-selected="false">
+                    Video
+                </button>
+            </li>
+
+        </ul>
+        <div class="tab-content mt-3" id="myTabContent">
+            <div class="tab-pane fade show active" id="alls" role="tabpanel" aria-labelledby="alls-tab">
+                <div class="d-flex">
+                    <div class="home-event-news-left position-relative">
+                        <img src="~/image/envent/rectangle1.svg" class="home-event-news-img" />
+                        <div class="home-event-news-titile">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả Trong Lẫn Ngoài Tòa Nhà</div>
+                        <div class="home-event-news-time">20/05/2022</div>
+                    </div>
+                    <div class="home-event-news-center ms-3">
+                        <div class="position-relative">
+                            <img src="~/image/envent/rectangle1.svg" class="home-event-news-center-img" />
+                            <div class="home-event-news-titile">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả Trong Lẫn Ngoài Tòa Nhà</div>
+                            <div class="home-event-news-time">20/05/2022</div>
+                        </div>
+                        <div class="d-flex justify-content-between pt-2">
+                            <div class="position-relative home-event-news-center-item">
+                                <img src="~/image/envent/rectangle1.svg" class="home-event-news-center-img-chill" />
+                                <div class="home-event-news-titile item">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả Trong Lẫn Ngoài Tòa Nhà</div>
+                                <div class="home-event-news-time">20/05/2022</div>
+                            </div>
+                            <div class="position-relative home-event-news-center-item">
+                                <img src="~/image/envent/rectangle1.svg" class="home-event-news-center-img-chill" />
+                                <div class="home-event-news-titile item">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả Trong Lẫn Ngoài Tòa Nhà</div>
+                                <div class="home-event-news-time">20/05/2022</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="home-event-news-right ms-3">
+                        <div class="home-event-news-right-video mb-2">
+                            <img src="~/image/envent/rectangle4.svg" class="home-event-news-right-video-img" />
+                            <div class="home-event-news-right-titile">Video giới thiệu KISO</div>
+                        </div>
+                        <div class="d-flex flex-column">
+                            <div class="home-event-news-right-box d-flex mb-1">
+                                <img src="~/image/envent/rectangle4.svg" class="home-event-news-right-img-item" />
+                                <div class="text">
+                                    <div class="home-event-news-right-titile-chill">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả ...</div>
+                                    <div class="home-event-news-right-titile-chill">20/05/2022</div>
+                                    <div class="home-event-news-right-titile-chill">Trên cơ sở nội lực vững vàng, tầm nhìn của KISO là trở thành biểu tượng...</div>
+                                </div>
+                            </div>
+                            <div class="home-event-news-right-box d-flex">
+                                <img src="~/image/envent/rectangle4.svg" class="home-event-news-right-img-item" />
+                                <div class="text">
+                                    <div class="home-event-news-right-titile-chill">[Dự Án L'avenir Quy Nhơn ] – Đổi Mới Diện Mạo Cả ...</div>
+                                    <div class="home-event-news-right-titile-chill">20/05/2022</div>
+                                    <div class="home-event-news-right-titile-chill">Trên cơ sở nội lực vững vàng, tầm nhìn của KISO là trở thành biểu tượng...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="project_news" role="tabpanel" aria-labelledby="project_news-tab">
+                2
+            </div>
+            <div class="tab-pane fade" id="company_news" role="tabpanel" aria-labelledby="company_news-tab">
+                3
+            </div>
+            <div class="tab-pane fade" id="community_news" role="tabpanel" aria-labelledby="community_news-tab">
+                4
+            </div>
+            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
+                5
+            </div>
+        </div>
+        <div class="text-center">
+            <button class="btn-next">Xem tất cả <i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+
+    </div>
+    <div class="home-sponsor-logo d-flex justify-content-center">
+        <img src="~/image/logo/logo_1.png" class="home-sponsor-logo-img" />
+        <img src="~/image/logo/logo_2.png" class="home-sponsor-logo-img" />
+        <img src="~/image/logo/logo_3.png" class="home-sponsor-logo-img" />
+        <img src="~/image/logo/logo_4.png" class="home-sponsor-logo-img" />
+        <img src="~/image/logo/logo_5.png" class="home-sponsor-logo-img" />
+        <img src="~/image/logo/logo_6.png" class="home-sponsor-logo-img" />
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 5,
+        spaceBetween: 30,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        loop: true,
+    });
+    var swiper = new Swiper(".mySwipers", {
+        slidesPerView: 3,
+        spaceBetween: 30,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        loop: true,
+    });
+</script>

@@ -1,0 +1,303 @@
+﻿@model kiso.Models.Product
+<link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.60/css/elfinder.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.60/css/theme.min.css" />
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/LayoutAdmin/_Layout.cshtml";
+}
+
+<h1>UpdateProduct</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-8 m-0 m-auto">
+        <form asp-action="UpdateProduct" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="bg-white"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Wattage" class="control-label"></label>
+                <input asp-for="Wattage" class="form-control" />
+                <span asp-validation-for="Wattage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Voltage" class="control-label"></label>
+                <input asp-for="Voltage" class="form-control" />
+                <span asp-validation-for="Voltage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ColorRenderingIndex" class="control-label"></label>
+                <input asp-for="ColorRenderingIndex" class="form-control" />
+                <span asp-validation-for="ColorRenderingIndex" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Guarantee" class="control-label"></label>
+                <input asp-for="Guarantee" class="form-control" />
+                <span asp-validation-for="Guarantee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Body" class="control-label"></label>
+                <textarea asp-for="Body" class="bg-white"></textarea>
+                <span asp-validation-for="Body" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ListImage" class="control-label"></label>
+                <div class="form-group">
+                    <div class="upload__box">
+                        <div class="upload__btn-box">
+                            <label asp-for="ListImage" class="upload__btn">
+                                <p>Upload images</p>
+                                <input type="file" asp-for="ListImage" multiple data-max_length="20" class="upload__inputfile">
+                            </label>
+                        </div>
+                        <div class="upload__img-wrap">
+                            @if (Model.ListImage != null)
+                            {
+                                var images = Model.ListImage.Split(',');
+                                foreach (var image in images)
+                                {
+                                    var imageUrl = Url.Content("~/uploads/" + image);
+                                    <div class='upload__img-box'>
+                                        <div style='background-image: url(@imageUrl)' class='img-bg'>
+                                            <div class='upload__img-close'></div>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+                <span asp-validation-for="ListImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PriceSale" class="control-label"></label>
+                <input asp-for="PriceSale" class="form-control" />
+                <span asp-validation-for="PriceSale" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sort" class="control-label"></label>
+                <input asp-for="Sort" class="form-control" />
+                <span asp-validation-for="Sort" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Active" /> @Html.DisplayNameFor(model => model.Active)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Home" /> @Html.DisplayNameFor(model => model.Home)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Hot" /> @Html.DisplayNameFor(model => model.Hot)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Url" class="control-label"></label>
+                <input asp-for="Url" class="form-control" />
+                <span asp-validation-for="Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TitleMeta" class="control-label"></label>
+                <input asp-for="TitleMeta" class="form-control" />
+                <span asp-validation-for="TitleMeta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescriptionMeta" class="control-label"></label>
+                <textarea asp-for="DescriptionMeta" class="bg-white"></textarea>
+                <span asp-validation-for="DescriptionMeta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductCategoryId" class="control-label"></label>
+                <select asp-for="ProductCategoryId" asp-items="@(new SelectList(ViewBag.CategoryNames, "Id", "CategoryName"))" class="form-control">
+                    <option value="">Chọn đèn</option>
+                </select>
+                <span asp-validation-for="ProductCategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MetarialId" class="control-label"></label>
+                <input asp-for="MetarialId" class="form-control" />
+                <span asp-validation-for="MetarialId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BaoHanh" class="control-label"></label>
+                <input asp-for="BaoHanh" class="form-control" />
+                <span asp-validation-for="BaoHanh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoiTra" class="control-label"></label>
+                <input asp-for="DoiTra" class="form-control" />
+                <span asp-validation-for="DoiTra" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaSp" class="control-label"></label>
+                <input asp-for="MaSp" class="form-control" />
+                <span asp-validation-for="MaSp" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Stocking" /> @Html.DisplayNameFor(model => model.Stocking)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/elfinder/2.1.60/js/elfinder.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#Description').summernote({
+            placeholder: 'Hello stand alone ui',
+            tabsize: 2,
+            height: 350,
+            toolbar: [
+                ['style', ['style']],
+                ['font', ['bold', 'underline', 'clear']],
+                ['color', ['color']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['table', ['table']],
+                ['insert', ['link', 'picture', 'video', 'elfinder']], // Thêm 'elfinder' vào toolbar
+                ['view', ['fullscreen', 'codeview', 'help']]
+            ],
+            callbacks: {
+                // Xử lý sự kiện khi người dùng click vào nút 'elfinder'
+                onElFinderDialogOpen: function (context) {
+                    // Khi nút 'elfinder' được click, mở elFinder
+                    context.plugins.elfinderDialog.open();
+                },
+                onMediaDialogOpen: function (dialog) {
+                    dialog.hide(); // Ẩn hộp thoại mặc định của summernote
+                },
+                // Xử lý sự kiện khi người dùng chọn hình ảnh từ elFinder
+                onImageLinkInsert: function (url) {
+                    $('#Description').summernote('editor.insertImage', url);
+                }
+            }
+        });
+        $('#DescriptionMeta').summernote({
+            placeholder: 'Hello stand alone ui',
+            tabsize: 2,
+            height: 350,
+            toolbar: [
+                ['style', ['style']],
+                ['font', ['bold', 'underline', 'clear']],
+                ['color', ['color']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['table', ['table']],
+                ['insert', ['link', 'picture', 'video', 'elfinder']], // Thêm 'elfinder' vào toolbar
+                ['view', ['fullscreen', 'codeview', 'help']]
+            ],
+            callbacks: {
+                // Xử lý sự kiện khi người dùng click vào nút 'elfinder'
+                onElFinderDialogOpen: function (context) {
+                    // Khi nút 'elfinder' được click, mở elFinder
+                    context.plugins.elfinderDialog.open();
+                },
+                onMediaDialogOpen: function (dialog) {
+                    dialog.hide(); // Ẩn hộp thoại mặc định của summernote
+                },
+                // Xử lý sự kiện khi người dùng chọn hình ảnh từ elFinder
+                onImageLinkInsert: function (url) {
+                    $('#Description').summernote('editor.insertImage', url);
+                }
+            }
+        });
+        $('#Body').summernote({
+            placeholder: 'Hello stand alone ui',
+            tabsize: 2,
+            height: 350,
+            toolbar: [
+                ['style', ['style']],
+                ['font', ['bold', 'underline', 'clear']],
+                ['color', ['color']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['table', ['table']],
+                ['insert', ['link', 'picture', 'video', 'elfinder']], // Thêm 'elfinder' vào toolbar
+                ['view', ['fullscreen', 'codeview', 'help']]
+            ],
+            callbacks: {
+                // Xử lý sự kiện khi người dùng click vào nút 'elfinder'
+                onElFinderDialogOpen: function (context) {
+                    // Khi nút 'elfinder' được click, mở elFinder
+                    context.plugins.elfinderDialog.open();
+                },
+                onMediaDialogOpen: function (dialog) {
+                    dialog.hide(); // Ẩn hộp thoại mặc định của summernote
+                },
+                // Xử lý sự kiện khi người dùng chọn hình ảnh từ elFinder
+                onImageLinkInsert: function (url) {
+                    $('#Description').summernote('editor.insertImage', url);
+                }
+            }
+        });
+
+        var imgArray = []; // Array to store uploaded images
+
+        $('.upload__inputfile').on('change', function (e) {
+            var imgWrap = $(this).closest('.upload__box').find('.upload__img-wrap');
+            var maxLength = $(this).attr('data-max_length');
+            var files = e.target.files;
+            var filesArr = Array.prototype.slice.call(files);
+
+            filesArr.forEach(function (f) {
+                if (!f.type.match('image.*')) {
+                    return;
+                }
+
+                if (imgArray.length >= maxLength) {
+                    alert('You can only upload a maximum of ' + maxLength + ' images.');
+                    return false;
+                } else {
+                    imgArray.push(f);
+
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        var html = `<div class='upload__img-box'>
+                                                    <div style='background-image: url(${e.target.result})' data-file='${f.name}' class='img-bg'>
+                                                    <div class='upload__img-close'></div>
+                                                </div>
+                                            </div>`;
+                        imgWrap.append(html);
+                    };
+                    reader.readAsDataURL(f);
+                }
+            });
+        });
+
+        $('body').on('click', ".upload__img-close", function () {
+            var file = $(this).parent().data("file");
+            imgArray = imgArray.filter(function (item) {
+                return item.name !== file;
+            });
+            $(this).parent().parent().remove();
+        });
+    });
+
+</script>

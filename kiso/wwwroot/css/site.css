@@ -1,0 +1,12 @@
+@import url('home.min.css');
+@import url('product.min.css');
+@import url('productdetails.min.css');
+@import url('admin.min.css');
+@import url('cart.min.css');
+@import url('ordersuccess.min.css');
+*,html{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+@import "header.css";

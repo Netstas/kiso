@@ -1,0 +1,147 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="product">
+ <div class="product-top">
+        <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+            <ol class="breadcrumb m-0">
+                <li class="breadcrumb-item"><a href="/" class="text-black"><i class="fa-solid fa-house"></i></a></li>
+                <li class="breadcrumb-item active" aria-current="page">
+                    Đèn thả văn phòng
+                </li>
+            </ol>
+        </nav>
+    </div>
+    <div class="product-content">
+        <div class="product-filter">
+            <div class="product-filter-left d-flex justify-content-between">
+                <div class="d-flex gap-2">
+                    <div class="product-filter-left-filters filter-shared ">
+                        <i class="fa fa-filter"></i>
+                        Bộ lọc
+                    </div>
+                    <select class="product-filter-left-price filter-shared ">
+                        <option>Giá</option>
+                        <option>Gias</option>
+                        <option>Gias</option>
+                    </select>
+                    <select class="product-filter-left-price filter-shared ">
+                        <option>Loại sản phẩm</option>
+                        <option>Gias</option>
+                        <option>Gias</option>
+                    </select>
+                    <select class="product-filter-left-price filter-shared ">
+                        <option>Chất liệu</option>
+                        <option>Gias</option>
+                        <option>Gias</option>
+                    </select>
+                </div>
+                <div class="filter-shared ">
+                    <label for="price">Sắp xếp theo:</label>
+                    <select class="product-filter-left-price" id="price">
+                        <option>Nổi bật</option>
+                        <option>Gias</option>
+                        <option>Gias</option>
+                    </select>
+                </div>
+            </div>
+            <div class="product-filter-center mt-5">
+                <div class="d-flex flex-wrap" style="gap:15px">
+                    @foreach (var item in ViewBag.Product)
+                    {
+                        var images = item.ListImage.Split(',');
+                        var firstImage = images[0].Trim();
+
+                        <div class="home-product-box border border-1 border-secondary">
+                            <div class="home-product-sale">
+                                13%
+                            </div>
+                            <div class="home-product-img">
+                                <a asp-action="productdetails" asp-route-id="@item.Id">
+                                    <img src="~/uploads/@firstImage" class="product-image" />
+                                </a>
+                            </div>
+                            <div class="home-product-name">
+                                <a asp-action="productdetails" asp-route-id="@item.Id" class="w-100 text-black text-decoration-none">
+                                    @item.Name
+                                </a>
+                            </div>
+                            <div class="home-product-price">
+                                <strong>
+                                    @item.Price
+                                </strong>
+                                -
+                                <del class="home-product-price-origin">
+                                    @item.PriceSale
+                                </del>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="product-question d-flex mt-5">
+                    <div class="accordion w-50" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Accordion Item #1
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Accordion Item #2
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Accordion Item #3
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="product-category-description w-75">
+                        <div class="card border-secondary mb-3 w-100">
+                            <h6 class="card-header">Mô tả Danh mục</h6>
+                            <div class="card-body text-secondary">
+                                <p class="card-text text-black">
+                                    Hiện nay trên thị trường có nhiều loại đèn LED dùng để chiếu sáng với nhiều mẫu mã,
+                                    kích thước đa dạng. Trong đó đèn thả văn phòng là một trong những mẫu đèn được nhiều khách hàng ưa
+                                    chuộng bởi những tính năng nổi bật mà sản phẩm mang lại. Cùng KISO tìm hiểu thêm về một số thông tin
+                                    xung quanh sản phẩm ưu việt này trong bài viết dưới đây.
+                                </p>
+                                <h5 class="card-title text-black">1. Đèn thả văn phòng led là gì ? </h5>
+                                <p class="card-text text-black">
+                                    Đèn led thả văn phòng (Tên tiếng Anh là LED linear light hay led office lighting) còn có một số tên
+                                    gọi khác như đèn LED thả trần văn phòng, đèn LED thanh treo, đèn máng văn phòng… là loại đèn LED phát
+                                    sáng được treo từ trên trần nhà và thả xuống bằng một hay nhiều sợi dây cáp nhằm chiếu sáng một không
+                                    gian nhất định. Đèn được thiết kế theo nhiều hình dạng, kích thước khác nhau, trong đó phổ biến là dạng
+                                    hình hộp chữ nhật dài. Ngoài tính năng chính là chiếu sáng thì đèn thả văn phòng còn có vai trò không nhỏ
+                                    trong việc trang trí, giúp không gian trở nên nổi bật, sang trọng hơn.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

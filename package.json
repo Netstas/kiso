@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ckeditor": "^4.12.1",
+    "elfinder": "^0.5.2"
+  }
+}

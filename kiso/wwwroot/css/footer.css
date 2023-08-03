@@ -1,0 +1,99 @@
+﻿.footer {
+  background: no-repeat;
+  background-image: url("../image/logo/rectangle.png");
+  background-size: cover;
+  padding: 30px 110px;
+}
+.footer-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.footer-top-left-company-name {
+  font-size: 21px;
+  margin-top: 33px;
+}
+.footer-top-title {
+  font-size: 18px;
+  margin: 0;
+  text-transform: uppercase;
+}
+.footer-top-centet-center {
+  padding-left: 128px;
+}
+.footer-top-centet-menu {
+  padding-top: 25px;
+}
+.footer-top-centet-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer-top-centet-item {
+  padding-top: 12px;
+}
+.footer-top-centet-link {
+  text-decoration: none;
+  color: #000;
+}
+.footer-top-centet-link {
+  text-decoration: none;
+  color: #000;
+}
+.footer-top-centet-link:hover {
+  color: #000;
+}
+.footer-top-right-box {
+  width: 267px;
+  height: 113px;
+  background: #D9D9D9;
+}
+.footer-top-right-from-text {
+  padding: 15px 0;
+  color: #373435;
+}
+.footer-top-right-from-send-mail {
+  border: none;
+  outline: none;
+}
+.footer-top-right-from-create {
+  border: 1px solid #ccc;
+  width: 267px;
+  border-radius: 22px;
+  padding: 6px;
+}
+.footer-top-right-from-send-mail {
+  border: none;
+  outline: none;
+  width: 215px;
+}
+.footer-top-right-from-label {
+  background: #22AB27;
+  color: #fff;
+  width: 30px;
+  text-align: center;
+  border-radius: 50%;
+  height: 30px;
+  line-height: 30px;
+}
+.footer-center {
+  background: #22AB27;
+  border-radius: 82px;
+  display: flex;
+  justify-content: space-between;
+  padding: 9px 65px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.footer-center-info {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+}
+.footer-center-information {
+  font-size: 14px;
+  margin: 0;
+}
+.footer-right {
+  text-align: center;
+  padding-top: 30px;
+}

@@ -1,0 +1,130 @@
+﻿@model kiso.Models.Order
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+<div class="pay">
+    <form method="post" asp-action="CreateOrder">
+        <div class="pay-content row">
+            <div class="pay-communications col-6 ">
+                <h3 class="pay-content-title">Thông tin liên lạc</h3>
+                <div class="pay-content-delivery-address mt-5">
+                    <h4>Địa chỉ nhận hàng</h4>
+                    <div class="row">
+                        <div class="col-md-12 mt-3">
+                            <input type="text" placeholder="Email" asp-for="CustomerInfoEmail" class="form-control">
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <input type="text" placeholder="Họ và Tên" asp-for="CustomerInfoFullname" class="form-control">
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <input type="number" asp-for="CustomerInfoMobile" placeholder="Số điện thoại" class="form-control">
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <select id="CityId" asp-for="CityId" class="form-select" onchange="getDistricts()">
+                                <option value="">Chọn tỉnh/thành phố</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <select id="DistrictId" asp-for="DistrictId" class="form-select">
+                                <option value="">Chọn thành quận/huyện</option>
+                            </select>
+                        </div>
+                        <div class="col-12 mt-3">
+                            <input type="text" class="form-control" asp-for="CustomerInfoAddress" placeholder="Địa chỉ">
+                        </div>
+                        <div class="col-12 mt-3">
+                            <label for="addasked" class="form-label">Yêu cầu thêm</label>
+                            <textarea class="form-control" placeholder="Lời nhắn ( nếu có )" asp-for="CustomerInfoBody"></textarea>
+                        </div>
+                        <div class="col-12 mt-5">
+                            <button type="submit" class="btn btn-checkout">Thanh toán</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pay-information-line col-6">
+                <h3 class="pay-content-title">Thông tin liên lạc</h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Sản phẩm</th>
+                            <th scope="col">Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody class="overflow-auto">
+                        @foreach (var item in ViewBag.Products)
+                        {
+                            var images = item.ListImage.Split(',');
+                            <input type="hidden" name="ProductId" value="@item.Id" />
+                            <input type="hidden" name="Quantity" value="@item.Count" />
+                            <input type="hidden" name="Price" value="@item.Price" />
+
+                            <tr>
+                                <th scope="row">
+                                    <img src="~/uploads/@images[0]" alt="@item.Name" width="100" height="100">
+                                    @item.Name
+                                </th>
+                                <td>@item.Count</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="row">
+                    <div class="col-6"> <strong> Tổng tiền: </strong></div>
+                    <div class="col-6 text-end">@ViewBag.TotalCartPriceInt</div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        function getCities() {
+            axios.get('/pay/api/GetCities')
+                .then(function (response) {
+                    const cities = response.data;
+                    const citySelect = document.getElementById('CityId');
+
+                    cities.forEach(function (city) {
+                        const option = document.createElement('option');
+                        option.value = city.id;
+                        option.text = city.name;
+                        citySelect.appendChild(option);
+                    });
+                })
+                .catch(function (error) {
+                    console.error('Error fetching cities:', error);
+                });
+        }
+
+        function getDistricts() {
+            const selectedCityId = document.getElementById('CityId').value;
+            const districtSelect = document.getElementById('DistrictId');
+            districtSelect.innerHTML = '<option value="">Chọn quận/huyện</option>';
+
+            if (!selectedCityId) {
+                return;
+            }
+
+            axios.get(`/pay/api/GetDistricts/${selectedCityId}`)
+                .then(function (response) {
+                    const districts = response.data;
+
+                    districts.forEach(function (district) {
+                        const option = document.createElement('option');
+                        option.value = district.id;
+                        option.text = district.name;
+                        districtSelect.appendChild(option);
+                    });
+                })
+                .catch(function (error) {
+                    console.error('Error fetching districts:', error);
+                });
+        }
+        getCities();
+      
+    </script>
+}

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<kiso.Models.Admin>
+@{
+    ViewData["Title"] = "Account";
+    Layout = "~/Views/LayoutAdmin/_Layout.cshtml";
+}
+
+<h1>Account</h1>
+
+<p>
+    <a asp-action="Register">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Account)
+        {
+        <tr>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @item.Password
+            </td>
+            <td>
+                @item.Active
+            </td>
+            <td>
+                <a asp-action="Register" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

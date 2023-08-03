@@ -1,0 +1,144 @@
+﻿@model IEnumerable<kiso.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/LayoutAdmin/_Layout.cshtml";
+}
+
+<p>
+    <a asp-action="ProductsCreate">Create New</a>
+</p>
+@if (ViewBag.Products != null && ViewBag.Products.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Wattage)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Voltage)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ColorRenderingIndex)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Guarantee)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ListImage)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PriceSale)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductCategory)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Products)
+            {
+                var images = item.ListImage.Split(',');
+                var firstImage = images[0].Trim();
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.Wattage
+                    </td>
+                    <td>
+                        @item.Voltage
+                    </td>
+                    <td>
+                        @item.ColorRenderingIndex
+                    </td>
+                    <td>
+                        @item.Guarantee
+                    </td>
+                    <td>
+                        <img src="~/uploads/@firstImage" alt="Product Image" class="image">
+                    </td>
+                    <td>
+                        @item.Price
+                    </td>
+                    <td>
+                        @item.PriceSale
+                    </td>
+                    <td>
+                        @item.CategoryName
+                    </td>
+                    <td>
+                        <a asp-action="UpdateProduct" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> 
+                        <button asp-action="Delete" class="btn-delete btn btn-danger" data-product-id="@item.Id">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item">
+                @if (ViewBag.CurrentPage > 1)
+                {
+                    <a href="@Url.Action("Products", new { page = ViewBag.CurrentPage - 1 })" class="page-link">&laquo;</a>
+                }
+            </li>
+            <li class="page-item d-flex">
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (i == ViewBag.CurrentPage)
+                    {
+                        <span class="page-link border-danger">@i</span>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Products", new { page = i })" class="page-link">@i</a>
+                    }
+                }
+            </li>
+            <li class="page-item">
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <a href="@Url.Action("Products", new { page = ViewBag.CurrentPage + 1 })" class="page-link">&raquo;</a>
+                }
+            </li>
+        </ul>
+    </nav>
+}
+else
+{
+    <p>No data available.</p>
+}
+
+<script type="text/javascript" src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".btn-delete").click(function () {
+            var productId = $(this).data("product-id");
+            var productName = $(this).closest("tr").find("td:first-child").text();
+
+            if (confirm(`Xác nhận xoá ?`)) {
+                $.ajax({
+                    url: "@Url.Action("DeleteProduct", "Admin")",
+                    type: "POST",
+                    data: { id: productId },
+                    success: function (result) {
+                        location.reload();
+                    },
+                    error: function (error) {
+                        alert("An error occurred while deleting the product.");
+                    }
+                });
+            }
+        });
+    });
+</script>
