@@ -1781,6 +1781,18 @@
       "PackagePath": "staticwebassets\\css\\login.scss"
     },
     {
+      "Id": "D:\\work\\kiso\\kiso\\wwwroot\\css\\order.css",
+      "PackagePath": "staticwebassets\\css\\order.css"
+    },
+    {
+      "Id": "D:\\work\\kiso\\kiso\\wwwroot\\css\\order.min.css",
+      "PackagePath": "staticwebassets\\css\\order.min.css"
+    },
+    {
+      "Id": "D:\\work\\kiso\\kiso\\wwwroot\\css\\order.scss",
+      "PackagePath": "staticwebassets\\css\\order.scss"
+    },
+    {
       "Id": "D:\\work\\kiso\\kiso\\wwwroot\\css\\ordersuccess.css",
       "PackagePath": "staticwebassets\\css\\ordersuccess.css"
     },

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<kiso.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders";
+    Layout = "~/Views/LayoutAdmin/_Layout.cshtml";
+}
+<div class="order">
+    <div>
+        <a asp-action="CreateOrder" class="order-btn-link">Create New</a>
+    </div>
+    <table class="table mb-0 mt-4">
+        <thead>
+            <tr >
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.MaDonHang)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.Payment)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.TypePay)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.Transport)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.TransportDate)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+                <th class="order-title">
+                    @Html.DisplayNameFor(model => model.ShipFee)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Orders)
+            {
+                <tr>
+                    <td class="order-content">
+                        @item.MaDonHang
+                    </td>
+                    <td class="order-content">
+                        @item.CreateDate
+                    </td>
+                    <td class="order-content">
+                        @item.Payment
+                    </td>
+                    <td class="order-content">
+                        @item.TypePay
+                    </td>
+                    <td class="order-content">
+                        @item.Transport
+                    </td>
+                    <td class="order-content">
+                        @item.TransportDate
+                    </td>
+                    <td class="order-content">
+                        @item.Status
+                    </td>
+                    <td class="order-content">
+                        @item.ShipFee
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

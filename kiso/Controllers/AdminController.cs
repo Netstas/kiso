@@ -380,7 +380,22 @@ namespace kiso.Controllers
 			// Chuyển hướng người dùng đến trang đăng nhập sau khi đăng xuất
 			return RedirectToAction(nameof(Index));
 		}
-        private string ComputeMD5Hash(string input)
+      
+		public IActionResult Orders()
+		{
+			var orders = db.Orders.ToList();
+			ViewBag.Orders = orders;
+			return View();
+		}
+		public IActionResult CreateOrder(Order order)
+		{
+
+
+
+			return View();
+
+		}
+		private string ComputeMD5Hash(string input)
         {
             using (var md5 = MD5.Create())
             {

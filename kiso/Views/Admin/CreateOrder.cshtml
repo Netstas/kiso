@@ -1,0 +1,228 @@
+﻿@model kiso.Models.Order
+
+@{
+    ViewData["Title"] = "CreateOrder";
+    Layout = "~/Views/LayoutAdmin/_Layout.cshtml";
+}
+
+<a asp-action="Orders" class="order-back"><i class="fa-solid fa-arrow-left"></i> Quay lại</a>
+<h5>CreateOrder</h5>
+<hr />
+<div class="row">
+    <div class="col-12">
+        <form asp-action="CreateOrder">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="order-create-content d-flex flex-wrap">
+                <div class="col-4">
+                    <div class="form-group">
+                        <label asp-for="MaDonHang" class="control-label"></label>
+                        <input asp-for="MaDonHang" class="form-control" />
+                        <span asp-validation-for="MaDonHang" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="CreateDate" class="control-label"></label>
+                        <input asp-for="CreateDate" class="form-control" />
+                        <span asp-validation-for="CreateDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="Payment" class="control-label"></label>
+                        <select asp-for="Payment" class="form-control">
+                            <option value="true">Đã thanh toán</option>
+                            <option value="false">Chưa thanh toán</option>
+                        </select>
+                        <span asp-validation-for="Payment" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group mt-2">
+                        <label asp-for="TypePay" class="control-label"></label>
+                        <select asp-for="TypePay" class="form-control">
+                            <option value="true">Đã thanh toán</option>
+                            <option value="false">Chưa thanh toán</option>
+                        </select>
+                        <span asp-validation-for="TypePay" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="Transport" class="control-label"></label>
+                        <select asp-for="Transport" class="form-control">
+                            <option value="true">Đã thanh toán</option>
+                            <option value="false">Chưa thanh toán</option>
+                        </select>
+                        <span asp-validation-for="Transport" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="TransportDate" class="control-label"></label>
+                        <input asp-for="TransportDate" class="form-control" />
+                        <span asp-validation-for="TransportDate" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="form-group mt-2">
+                        <label asp-for="Status" class="control-label"></label>
+                        <select asp-for="Status" class="form-control">
+                            <option value="true">Đã thanh toán</option>
+                            <option value="false">Chưa thanh toán</option>
+                        </select>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="Viewed" class="control-label"></label>
+                        <input type="checkbox" asp-for="Viewed" />
+                        <span asp-validation-for="Viewed" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="CustomerInfoFullname" class="control-label"></label>
+                        <input asp-for="CustomerInfoFullname" class="form-control" />
+                        <span asp-validation-for="CustomerInfoFullname" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoAddress" class="control-label"></label>
+                        <input asp-for="CustomerInfoAddress" class="form-control" />
+                        <span asp-validation-for="CustomerInfoAddress" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoMobile" class="control-label"></label>
+                        <input asp-for="CustomerInfoMobile" class="form-control" />
+                        <span asp-validation-for="CustomerInfoMobile" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoEmail" class="control-label"></label>
+                        <input asp-for="CustomerInfoEmail" class="form-control" />
+                        <span asp-validation-for="CustomerInfoEmail" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoBody" class="control-label"></label>
+                        <input asp-for="CustomerInfoBody" class="form-control" />
+                        <span asp-validation-for="CustomerInfoBody" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoIsNewMember" class="control-label"></label>
+                        <input asp-for="CustomerInfoIsNewMember" class="form-control" />
+                        <span asp-validation-for="CustomerInfoIsNewMember" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="ThanhToanTruoc" class="control-label"></label>
+                        <input asp-for="ThanhToanTruoc" class="form-control" />
+                        <span asp-validation-for="ThanhToanTruoc" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="form-group mt-4">
+                        <label asp-for="ShipFee" class="control-label"></label> <br />
+
+                        <input type="radio" id="free" checked asp-for="ShipFee" value="0" />
+                        <label for="free">Miễn Phí</label>
+                        <input type="radio" id="nofree" asp-for="ShipFee" value="1" />
+                        <label for="nofree">Không miễn phí</label>
+                        <span asp-validation-for="ShipFee" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="CustomerInfoOrther" class="control-label"></label>
+                        <input asp-for="CustomerInfoOrther" class="form-control" />
+                        <span asp-validation-for="CustomerInfoOrther" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group mt-2">
+                        <label asp-for="CityId" class="control-label"></label>
+                        <select id="CityId" asp-for="CityId" class="form-select" onchange="getDistricts()">
+                            <option value="">Chọn tỉnh/thành phố</option>
+                        </select>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="DistrictId" class="control-label"></label>
+                        <select id="DistrictId" asp-for="DistrictId" class="form-select" onchange="getWard()">
+                            <option value="">Chọn thành quận/huyện</option>
+                        </select>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label asp-for="WardId" class="control-label"></label>
+                        <select id="WardId" asp-for="WardId" class="form-select">
+                            <option value="">Chọn thành phường/xã</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group text-center mt-5">
+                <input type="submit" value="Tạo đơn hàng" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    function getCities() {
+        axios.get('/pay/api/GetCities')
+            .then(function (response) {
+                const cities = response.data;
+                const citySelect = document.getElementById('CityId');
+
+                cities.forEach(function (city) {
+                    const option = document.createElement('option');
+                    option.value = city.id;
+                    option.text = city.name;
+                    citySelect.appendChild(option);
+                });
+            })
+            .catch(function (error) {
+                console.error('Error fetching cities:', error);
+            });
+    }
+
+    function getDistricts() {
+        const selectedCityId = document.getElementById('CityId').value;
+        const districtSelect = document.getElementById('DistrictId');
+        districtSelect.innerHTML = '<option value="">Chọn quận/huyện</option>';
+
+        if (!selectedCityId) {
+            return;
+        }
+
+        axios.get(`/pay/api/GetDistricts/${selectedCityId}`)
+            .then(function (response) {
+                const districts = response.data;
+                districts.forEach(function (district) {
+                    const option = document.createElement('option');
+                    option.value = district.id;
+                    option.text = district.name;
+                    districtSelect.appendChild(option);
+                });
+            })
+            .catch(function (error) {
+                console.error('Error fetching districts:', error);
+            });
+    }
+    function getWard() {
+        const selectedDistrictId = document.getElementById('DistrictId').value;
+        const wardSelect = document.getElementById('WardId');
+        wardSelect.innerHTML = '<option value="">Chọn phường/xã</option>';
+
+        if (!selectedDistrictId) {
+            return;
+        }
+        console.log(selectedDistrictId);
+
+        axios.get(`/pay/api/GetWard/${selectedDistrictId}`)
+            .then(function (response) {
+                const wards = response.data;
+                console.log(wards);
+
+                wards.forEach(function (ward) {
+                    const option = document.createElement('option');
+                    option.value = ward.id;
+                    option.text = ward.name;
+                    wardSelect.appendChild(option);
+                });
+            })
+            .catch(function (error) {
+                console.error('Error fetching districts:', error);
+            });
+    }
+    getCities();
+
+</script>

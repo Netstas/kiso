@@ -34,5 +34,9 @@
   {
     "outputFile": "wwwroot/css/ordersuccess.css",
     "inputFile": "wwwroot/css/ordersuccess.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/order.css",
+    "inputFile": "wwwroot/css/order.scss"
   }
 ]

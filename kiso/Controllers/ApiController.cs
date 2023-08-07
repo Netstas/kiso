@@ -14,39 +14,6 @@ namespace kiso.Controllers
         {
             _dbContext = dbContext;
         }
-        [HttpGet("Index")]
-        public ActionResult Index()
-        {
-            int[] productId = TempData["ProductId"] as int[];
-            int totalCartPriceInt = (int)TempData["TotalCartPrice"];
-            int[] Count = TempData["Count"] as int[];
-
-            if (productId != null && totalCartPriceInt != null && Count != null)
-            {
-                using (var db = new KisoLightContext())
-                {
-                    var productsWithCartInfo = db.Products
-                    .Where(p => productId.Contains(p.Id))
-                    .Select(p => new
-                    {
-                        p.Id,
-                        p.Name,
-                        p.ListImage,
-                        p.Price,
-                        Count = Count.Sum()
-                    })
-                    .ToList();
-                    ViewBag.Products = productsWithCartInfo;
-                }
-                ViewBag.TotalCartPriceInt = totalCartPriceInt;
-
-                return View();
-            }
-            else
-            {
-                return NotFound("404");
-            }
-        }
 
         [HttpGet("GetCities")]
         public IActionResult GetCities()
@@ -64,6 +31,13 @@ namespace kiso.Controllers
 
             return Ok(districts);
         }
-
+        [HttpGet("GetWard/{districtId}")]
+        public IActionResult GetWard(int districtId)
+        {
+            var ward = _dbContext.Wards
+                .Where(w => w.DistrictId == districtId)
+                .ToList();
+            return Ok(ward);
+        }
     }
 }

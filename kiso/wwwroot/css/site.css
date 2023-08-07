@@ -4,6 +4,7 @@
 @import url('admin.min.css');
 @import url('cart.min.css');
 @import url('ordersuccess.min.css');
+@import url('order.min.css');
 *,html{
     margin:0;
     padding:0;
