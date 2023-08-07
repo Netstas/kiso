@@ -410,7 +410,14 @@ namespace kiso.Controllers
             }
 
         }
-
+        [HttpPost]
+        public IActionResult OrderDelete(int id)
+        {
+            var orderd = db.Orders.FirstOrDefault(o => o.Id == id);
+            db.Orders.Remove(orderd);
+            db.SaveChanges();
+            return RedirectToAction("Orders", "Admin");
+        }
         private string ComputeMD5Hash(string input)
         {
             using (var md5 = MD5.Create())

@@ -10,7 +10,7 @@
     </div>
     <table class="table mb-0 mt-4">
         <thead>
-            <tr >
+            <tr>
                 <th class="order-title">
                     @Html.DisplayNameFor(model => model.MaDonHang)
                 </th>
@@ -68,7 +68,9 @@
                     </td>
                     <td>
                         <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        <a asp-action="OrderDelete" class="btn-delete" data-order-id="@item.Id">
+                            Delete
+                        </a>
                     </td>
                 </tr>
             }
@@ -76,3 +78,28 @@
     </table>
 
 </div>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".btn-delete").click(function (e) {
+            e.preventDefault()
+            var orderId = $(this).data("order-id");
+            var orderName = $(this).closest("tr").find("td:first-child").text();
+
+            if (confirm(`Xác nhận xoá ?`)) {
+                $.ajax({
+                    url: "@Url.Action("OrderDelete", "Admin")",
+                    type: "POST",
+                    data: { id: orderId },
+                    success: function (result) {
+                        location.reload();
+                    },
+                    error: function (error) {
+                        alert("An error occurred while deleting the product.");
+                    }
+                });
+            }
+        });
+    });
+</script>
