@@ -53,7 +53,7 @@ namespace kiso.Models
         public bool? CustomerInfoIsNewMember { get; set; }
 
         [Display(Name = "Thanh toán trước")]
-        public int? ThanhToanTruoc { get; set; }
+        public int ThanhToanTruoc { get; set; }
 
         [Display(Name = "Miễn phí giao hàng")]
         public int ShipFee { get; set; }

@@ -37,16 +37,16 @@
                     <div class="form-group mt-2">
                         <label asp-for="TypePay" class="control-label"></label>
                         <select asp-for="TypePay" class="form-control">
-                            <option value="true">Đã thanh toán</option>
-                            <option value="false">Chưa thanh toán</option>
+                            <option value="true">Thanh toán tiền mặt</option>
+                            <option value="false">Thanh toán chuyển khoản</option>
                         </select>
                         <span asp-validation-for="TypePay" class="text-danger"></span>
                     </div>
                     <div class="form-group mt-2">
                         <label asp-for="Transport" class="control-label"></label>
                         <select asp-for="Transport" class="form-control">
-                            <option value="true">Đã thanh toán</option>
-                            <option value="false">Chưa thanh toán</option>
+                            <option value="true">Hoả tốc</option>
+                            <option value="false">Thường</option>
                         </select>
                         <span asp-validation-for="Transport" class="text-danger"></span>
                     </div>
@@ -60,14 +60,20 @@
                     <div class="form-group mt-2">
                         <label asp-for="Status" class="control-label"></label>
                         <select asp-for="Status" class="form-control">
-                            <option value="true">Đã thanh toán</option>
-                            <option value="false">Chưa thanh toán</option>
+                            <option value="0">Đang chờ</option>
+                            <option value="1">Đang đóng gói</option>
+                            <option value="2">Đang vận chuyển</option>
+                            <option value="3">Đang giao</option>
+                            <option value="4">Đã giao</option>
+                            <option value="5">Đã huỷ</option>
                         </select>
                         <span asp-validation-for="Status" class="text-danger"></span>
                     </div>
                     <div class="form-group mt-4">
+                        <label>Đã Xem</label><br />
+                        <input type="checkbox" value="true" asp-for="Viewed" />
                         <label asp-for="Viewed" class="control-label"></label>
-                        <input type="checkbox" asp-for="Viewed" />
+                       
                         <span asp-validation-for="Viewed" class="text-danger"></span>
                     </div>
                     <div class="form-group mt-4">
@@ -105,17 +111,20 @@
                         <span asp-validation-for="CustomerInfoIsNewMember" class="text-danger"></span>
                     </div>
                     <div class="form-group mt-2">
-                        <label asp-for="ThanhToanTruoc" class="control-label"></label>
-                        <input asp-for="ThanhToanTruoc" class="form-control" />
+                        <label asp-for="ThanhToanTruoc" class="control-label"></label> <br />
+                        <input type="radio" id="prepayment" checked asp-for="ThanhToanTruoc" value="0" />
+                        <label for="prepayment">Thanh toán trước</label><br />
+                        <input type="radio" id="paylater" asp-for="ThanhToanTruoc" value="1" />
+                        <label for="paylater">Thanh toán sau</label>
                         <span asp-validation-for="ThanhToanTruoc" class="text-danger"></span>
                     </div>
                 </div>
                 <div class="col-3">
-                    <div class="form-group mt-4">
+                    <div class="form-group mt-2">
                         <label asp-for="ShipFee" class="control-label"></label> <br />
 
                         <input type="radio" id="free" checked asp-for="ShipFee" value="0" />
-                        <label for="free">Miễn Phí</label>
+                        <label for="free">Miễn Phí</label><br />
                         <input type="radio" id="nofree" asp-for="ShipFee" value="1" />
                         <label for="nofree">Không miễn phí</label>
                         <span asp-validation-for="ShipFee" class="text-danger"></span>
@@ -185,6 +194,7 @@
 
         axios.get(`/pay/api/GetDistricts/${selectedCityId}`)
             .then(function (response) {
+                console.log(response)
                 const districts = response.data;
                 districts.forEach(function (district) {
                     const option = document.createElement('option');
@@ -201,17 +211,13 @@
         const selectedDistrictId = document.getElementById('DistrictId').value;
         const wardSelect = document.getElementById('WardId');
         wardSelect.innerHTML = '<option value="">Chọn phường/xã</option>';
-
         if (!selectedDistrictId) {
             return;
         }
-        console.log(selectedDistrictId);
 
-        axios.get(`/pay/api/GetWard/${selectedDistrictId}`)
+        axios.get(`/pay/api/GetWards/${selectedDistrictId}`)
             .then(function (response) {
                 const wards = response.data;
-                console.log(wards);
-
                 wards.forEach(function (ward) {
                     const option = document.createElement('option');
                     option.value = ward.id;

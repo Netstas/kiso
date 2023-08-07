@@ -29,6 +29,7 @@
   font-size: 15px;
   margin-bottom: 16px;
   display: block;
+  width: 80px;
 }
 .order-back:hover {
   color: #000;

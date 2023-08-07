@@ -31,13 +31,13 @@ namespace kiso.Controllers
 
             return Ok(districts);
         }
-        [HttpGet("GetWard/{districtId}")]
-        public IActionResult GetWard(int districtId)
+        [HttpGet("GetWards/{districtId}")]
+        public IActionResult GetWards(int districtId)
         {
-            var ward = _dbContext.Wards
+             var wards = _dbContext.Wards
                 .Where(w => w.DistrictId == districtId)
                 .ToList();
-            return Ok(ward);
+            return Ok(wards);
         }
     }
 }
