@@ -1,0 +1,2301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\kiso.bundle.scp.css",
+      "PackagePath": "staticwebassets\\kiso.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\03f2f8d4-9ab1-4753-b8cd-97a00e7b111a_b552d55f82a9abe84689b0671eb82304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\03f2f8d4-9ab1-4753-b8cd-97a00e7b111a_b552d55f82a9abe84689b0671eb82304.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\1816617a-809f-4a78-b7a3-e3510c2c95d3_b552d55f82a9abe84689b0671eb82304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1816617a-809f-4a78-b7a3-e3510c2c95d3_b552d55f82a9abe84689b0671eb82304.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\4adbc1bc-91a0-41ae-a2e1-ae47e3d2e56b_796c7c51c02e5adc62fe4b6df5573c04.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4adbc1bc-91a0-41ae-a2e1-ae47e3d2e56b_796c7c51c02e5adc62fe4b6df5573c04.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\66176a55-2d54-4b5c-8372-00bc7aafa8f5_f85a3e441691f178809cdea956c037d1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\66176a55-2d54-4b5c-8372-00bc7aafa8f5_f85a3e441691f178809cdea956c037d1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\796c7c51c02e5adc62fe4b6df5573c04.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\796c7c51c02e5adc62fe4b6df5573c04.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\79e9bdde-0336-4199-a78a-1f6991995877_a794144b56484dcc2e9eef3d7aae49f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\79e9bdde-0336-4199-a78a-1f6991995877_a794144b56484dcc2e9eef3d7aae49f1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\876e14b6-2432-4618-99fd-300f5dcb1f1d_d3e110666312db0f94962cf56191bbe8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\876e14b6-2432-4618-99fd-300f5dcb1f1d_d3e110666312db0f94962cf56191bbe8.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\8bca08a8-c68a-4e40-9de9-f2641febd4c3_b552d55f82a9abe84689b0671eb82304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8bca08a8-c68a-4e40-9de9-f2641febd4c3_b552d55f82a9abe84689b0671eb82304.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\a794144b56484dcc2e9eef3d7aae49f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a794144b56484dcc2e9eef3d7aae49f1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\afab2256-9009-4eef-a614-c08a01ba33a5_b552d55f82a9abe84689b0671eb82304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\afab2256-9009-4eef-a614-c08a01ba33a5_b552d55f82a9abe84689b0671eb82304.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\b07d58d2-68ee-4cfc-8378-4c873b64f9a8_a794144b56484dcc2e9eef3d7aae49f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b07d58d2-68ee-4cfc-8378-4c873b64f9a8_a794144b56484dcc2e9eef3d7aae49f1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\b552d55f82a9abe84689b0671eb82304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b552d55f82a9abe84689b0671eb82304.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\b64194f4-070f-410c-a9e4-bd8b994ce46d_a794144b56484dcc2e9eef3d7aae49f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b64194f4-070f-410c-a9e4-bd8b994ce46d_a794144b56484dcc2e9eef3d7aae49f1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\d871c12b-9972-413c-8bd2-116d585cc032_a794144b56484dcc2e9eef3d7aae49f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d871c12b-9972-413c-8bd2-116d585cc032_a794144b56484dcc2e9eef3d7aae49f1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\Uploads\\f85a3e441691f178809cdea956c037d1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f85a3e441691f178809cdea956c037d1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\license.txt"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\admin.min.css",
+      "PackagePath": "staticwebassets\\css\\admin.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\admin.scss",
+      "PackagePath": "staticwebassets\\css\\admin.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\cart.min.css",
+      "PackagePath": "staticwebassets\\css\\cart.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\cart.scss",
+      "PackagePath": "staticwebassets\\css\\cart.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\footer.min.css",
+      "PackagePath": "staticwebassets\\css\\footer.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\footer.scss",
+      "PackagePath": "staticwebassets\\css\\footer.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\header.min.css",
+      "PackagePath": "staticwebassets\\css\\header.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\header.scss",
+      "PackagePath": "staticwebassets\\css\\header.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\home.min.css",
+      "PackagePath": "staticwebassets\\css\\home.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\home.scss",
+      "PackagePath": "staticwebassets\\css\\home.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\login.min.css",
+      "PackagePath": "staticwebassets\\css\\login.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\login.scss",
+      "PackagePath": "staticwebassets\\css\\login.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\order.css",
+      "PackagePath": "staticwebassets\\css\\order.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\order.min.css",
+      "PackagePath": "staticwebassets\\css\\order.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\order.scss",
+      "PackagePath": "staticwebassets\\css\\order.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\ordersuccess.css",
+      "PackagePath": "staticwebassets\\css\\ordersuccess.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\ordersuccess.min.css",
+      "PackagePath": "staticwebassets\\css\\ordersuccess.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\ordersuccess.scss",
+      "PackagePath": "staticwebassets\\css\\ordersuccess.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\product.min.css",
+      "PackagePath": "staticwebassets\\css\\product.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\product.scss",
+      "PackagePath": "staticwebassets\\css\\product.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\productDetails.css",
+      "PackagePath": "staticwebassets\\css\\productDetails.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\productDetails.min.css",
+      "PackagePath": "staticwebassets\\css\\productDetails.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\productDetails.scss",
+      "PackagePath": "staticwebassets\\css\\productDetails.scss"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\Ellipse.svg",
+      "PackagePath": "staticwebassets\\image\\Ellipse.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\banner\\banner.svg",
+      "PackagePath": "staticwebassets\\image\\banner\\banner.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\banner\\contractors-bg.svg",
+      "PackagePath": "staticwebassets\\image\\banner\\contractors-bg.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\banner\\group.svg",
+      "PackagePath": "staticwebassets\\image\\banner\\group.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\banner\\rectangle.svg",
+      "PackagePath": "staticwebassets\\image\\banner\\rectangle.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle 1254.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle 1254.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle1255.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle1255.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle256.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle256.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle57.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle57.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\companionhouse\\Rectangle8.svg",
+      "PackagePath": "staticwebassets\\image\\companionhouse\\Rectangle8.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\conact\\Rectangle27.svg",
+      "PackagePath": "staticwebassets\\image\\conact\\Rectangle27.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\conact\\Rectangle327.svg",
+      "PackagePath": "staticwebassets\\image\\conact\\Rectangle327.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\conact\\Rectangle7.svg",
+      "PackagePath": "staticwebassets\\image\\conact\\Rectangle7.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\envent\\rectangle1.svg",
+      "PackagePath": "staticwebassets\\image\\envent\\rectangle1.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\envent\\rectangle2.svg",
+      "PackagePath": "staticwebassets\\image\\envent\\rectangle2.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\envent\\rectangle3.svg",
+      "PackagePath": "staticwebassets\\image\\envent\\rectangle3.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\envent\\rectangle4.svg",
+      "PackagePath": "staticwebassets\\image\\envent\\rectangle4.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\footer\\Rectangle 1214.svg",
+      "PackagePath": "staticwebassets\\image\\footer\\Rectangle 1214.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon1.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon1.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon2.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon2.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon3.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon3.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon4.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon4.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon5.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon5.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon6.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon6.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon7.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon7.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon8.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon8.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\icon\\icon9.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\icon9.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo2 1.svg",
+      "PackagePath": "staticwebassets\\image\\logo\\logo2 1.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_1.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_1.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_2.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_2.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_3.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_3.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_4.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_4.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_5.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_5.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\logo_6.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo_6.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\logo\\rectangle.png",
+      "PackagePath": "staticwebassets\\image\\logo\\rectangle.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\original-931b76b8b5cda243382d7ba21790b098.png",
+      "PackagePath": "staticwebassets\\image\\original-931b76b8b5cda243382d7ba21790b098.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\product\\Rectangle 192.svg",
+      "PackagePath": "staticwebassets\\image\\product\\Rectangle 192.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\product\\Rectangle.svg",
+      "PackagePath": "staticwebassets\\image\\product\\Rectangle.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\product\\led.png",
+      "PackagePath": "staticwebassets\\image\\product\\led.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\product\\leds.png",
+      "PackagePath": "staticwebassets\\image\\product\\leds.png"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\image\\vni-home_banner_shop 1.svg",
+      "PackagePath": "staticwebassets\\image\\vni-home_banner_shop 1.svg"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\work\\kisolight\\kiso\\kiso\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.kiso.props",
+      "PackagePath": "build\\kiso.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.kiso.props",
+      "PackagePath": "buildMultiTargeting\\kiso.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.kiso.props",
+      "PackagePath": "buildTransitive\\kiso.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.kiso.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

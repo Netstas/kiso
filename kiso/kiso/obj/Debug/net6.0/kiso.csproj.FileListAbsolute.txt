@@ -1,0 +1,178 @@
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\appsettings.Development.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\appsettings.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.staticwebassets.runtime.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.exe
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.deps.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.runtimeconfig.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\kiso.pdb
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Azure.Core.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Azure.Identity.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Humanizer.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.CodeDom.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Memory.Data.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Text.Json.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.csproj.AssemblyReference.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.AssemblyInfoInputs.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.AssemblyInfo.cs
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.csproj.CoreCompileInputs.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.MvcApplicationPartsAssemblyInfo.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.kiso.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.build.kiso.props
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.kiso.props
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.kiso.props
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets.pack.json
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets.build.json
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\staticwebassets.development.json
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\scopedcss\bundle\kiso.styles.css
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.csproj.CopyComplete
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.dll
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\refint\kiso.dll
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.pdb
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.genruntimeconfig.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\ref\kiso.dll
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.RazorAssemblyInfo.cache
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\kiso.RazorAssemblyInfo.cs
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\tai xuong\kiso\kiso\obj\Debug\net6.0\scopedcss\projectbundle\kiso.bundle.scp.css
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\libman.json
+D:\tai xuong\kiso\kiso\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\appsettings.Development.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\appsettings.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\libman.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.staticwebassets.runtime.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.exe
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.deps.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.runtimeconfig.json
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\kiso.pdb
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Azure.Core.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Azure.Identity.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Humanizer.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.CodeDom.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Memory.Data.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Text.Json.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\work\kisolight\kiso\kiso\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.csproj.AssemblyReference.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.AssemblyInfoInputs.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.AssemblyInfo.cs
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.csproj.CoreCompileInputs.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.MvcApplicationPartsAssemblyInfo.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.RazorAssemblyInfo.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.RazorAssemblyInfo.cs
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.kiso.Microsoft.AspNetCore.StaticWebAssets.props
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.build.kiso.props
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.kiso.props
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.kiso.props
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets.pack.json
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets.build.json
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\staticwebassets.development.json
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\scopedcss\bundle\kiso.styles.css
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\scopedcss\projectbundle\kiso.bundle.scp.css
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.csproj.CopyComplete
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.dll
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\refint\kiso.dll
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.pdb
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\kiso.genruntimeconfig.cache
+D:\work\kisolight\kiso\kiso\obj\Debug\net6.0\ref\kiso.dll
